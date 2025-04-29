@@ -1,0 +1,56 @@
+{
+  "Harry's first day at Hogwarts": {
+    "common_chunks": [
+      275
+    ],
+    "overlap_percentage": 20.0,
+    "tfidf_unique": [
+      514,
+      402,
+      279,
+      175
+    ],
+    "semantic_unique": [
+      721,
+      426,
+      140,
+      87
+    ]
+  },
+  "Quidditch match rules": {
+    "common_chunks": [
+      571
+    ],
+    "overlap_percentage": 20.0,
+    "tfidf_unique": [
+      681,
+      579,
+      611,
+      572
+    ],
+    "semantic_unique": [
+      535,
+      684,
+      527,
+      399
+    ]
+  },
+  "Voldemort and the Philosopher's Stone": {
+    "common_chunks": [
+      692
+    ],
+    "overlap_percentage": 20.0,
+    "tfidf_unique": [
+      850,
+      36,
+      821,
+      820
+    ],
+    "semantic_unique": [
+      849,
+      908,
+      842,
+      932
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Harry's first day at Hogwarts": {
+    "precision_at_5": 0.2,
+    "mrr": 0.5,
+    "ndcg_at_5": 0.21398626473452756
+  },
+  "Quidditch match rules": {
+    "precision_at_5": 0.2,
+    "mrr": 0.2,
+    "ndcg_at_5": 0.13120507751234178
+  },
+  "Voldemort and the Philosopher's Stone": {
+    "precision_at_5": 0.2,
+    "mrr": 0.2,
+    "ndcg_at_5": 0.13120507751234178
+  },
+  "average": {
+    "precision_at_5": 0.20000000000000004,
+    "mrr": 0.3,
+    "ndcg_at_5": 0.1587988065864037
+  }
+}

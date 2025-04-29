@@ -1,0 +1,12 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "num_chunks": 972,
+  "model_choice_rationale": {
+    "performance": "Good balance between performance and speed with 6 layers",
+    "training_data": "Trained on diverse datasets, making it robust for general text",
+    "embedding_size": "384-dimensional embeddings (compact but expressive)",
+    "benchmarks": "Strong performance on the MTEB benchmark",
+    "optimization": "Specifically optimized for semantic similarity tasks"
+  }
+}

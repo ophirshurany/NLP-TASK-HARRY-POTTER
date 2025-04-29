@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+nltk
+transformers
+faiss-cpu
+matplotlib
+seaborn
+torch
+requests
+jupyter
